@@ -1,8 +1,8 @@
-#Lenovo Thinkpad T480. 
+### Lenovo ThinkPad T480 (Kaby Lake Edition)
 
 My hardware: 
 
-Intel i5-7300U
+Intel Core i5-7300U
 
 16GB DDR4 RAM
 
