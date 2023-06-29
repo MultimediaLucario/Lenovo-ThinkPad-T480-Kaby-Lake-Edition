@@ -11,7 +11,7 @@ Storage Type: ```Solid State Drive```
 Wifi: ```Intel 8265 Wireless Card```
 
 
-I've created this project based on Valnoxy's project, and modified some specifics to fit my individual needs and to resolve some of the minor issues that come with using Valnoxy's version with the 7th generation processor rather than the 8th generation processor. 
+I forked Valnoxy's ThinkPad T480 OpenCore Configuration and modified some specifics to optimize it for the Kaby Lake (Intel Core i5-7300U 7th Gen) configuration.
 
 Disclaimer: 
 
