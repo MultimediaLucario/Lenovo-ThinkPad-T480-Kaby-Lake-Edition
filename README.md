@@ -1,5 +1,29 @@
 # Lenovo ThinkPad T480 (Kaby Lake Edition)
 
+![repository-t480-template](https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480/assets/72415505/0307c12a-d992-4c37-8835-3b888c9e772e)
+
+
+[![macOS](https://img.shields.io/badge/macOS-Ventura-orange.svg)](https://developer.apple.com/documentation/macos-release-notes)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.6-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
+
+<p align="center">
+   <strong>Status: Maintained</strong>
+   <br />
+   <strong>Version: </strong>1.4.1
+   <br />
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480-Kaby-Lake-Edition/releases"><strong>Download now »</strong></a>
+   <br />
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480"><strong>Lenovo ThinkPad T480 OG EFI »</strong></a>
+   <br />
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480/issues">Report Bug</a>
+   <a href="https://github.com/valnoxy/t480-oc/blob/main/CHANGELOG.md">View Changelog</a>
+  </p>
+</p>
+</br>
+
+
+
 ### The ideal hardware: 
 
 CPU: ```Intel Core i5-7300U```
