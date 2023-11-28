@@ -14,7 +14,7 @@
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480-Kaby-Lake-Edition/releases"><strong>Download now »</strong></a>
    <br />
-   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480"><strong> << Lenovo ThinkPad T480 OG EFI </strong></a>
+   <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480"><strong>Lenovo ThinkPad T480 OG EFI »</strong></a>
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480/issues">Report Bug</a>
    <a href="https://github.com/valnoxy/t480-oc/blob/main/CHANGELOG.md">View Changelog</a>
