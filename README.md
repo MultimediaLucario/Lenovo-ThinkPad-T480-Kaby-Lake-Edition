@@ -35,8 +35,8 @@ Storage Type: ```Solid State Drive```
 Wifi: ```Intel 8265 Wireless Card```
 
 
-I forked Valnoxy's ThinkPad T480 OpenCore Configuration and modified some specifics to optimize it for the Kaby Lake (Intel Core i5-7300U 7th Gen) configuration.
+This is a fork of Valnoxy's ThinkPad T480 OpenCore Configuration that has been modified to be optimized for the Kaby Lake (Intel Core i5-7300U 7th Gen) configuration.
 
-Disclaimer: 
+## Disclaimer: 
 
 The original developer of this fork had to install Monterey first using the EFI found at https://github.com/Comet1903/t480-monterey-opencore. From there, they moved their SMBIOS information to the "EFI" config found at https://github.com/valnoxy/t480-oc. They also installed CPUFriend to deal with thermals and power management. For some reason, this caused their system to speed up considerably whilst being cooler and having a much longer battery life. The current hypothesis is that the CPU was drawing too much power, overheating, then thermal throttling whilst continuing to overheat, necessitating more use of the fans, which caused the CPU to heat up more, and so on. By installing CPUFriend, they interruped this feedback loop at its origin, thereby eliminating all of these problems at once. 
