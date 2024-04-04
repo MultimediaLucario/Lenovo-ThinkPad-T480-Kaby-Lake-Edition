@@ -10,7 +10,7 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>Version: </strong>1.4.1
+   <strong>Version: </strong>1.5.0
    <br />
    <a href="https://github.com/MultimediaLucario/Lenovo-ThinkPad-T480-Kaby-Lake-Edition/releases"><strong>Download now »</strong></a>
    <br />
